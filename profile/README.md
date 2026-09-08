@@ -37,22 +37,14 @@ We're an agent-builder team from the **Greater Bay Area**, turning repetitive op
 
 ## 🔨 原创项目 · Our Projects
 
-<div align="center">
+| 项目 Project | 简介 Description |
+|---|---|
+| [**damou1758**](https://github.com/agentiker/damou1758) · `TypeScript` | 姜无维 OPC 超级个体 · One-person-company agent stack |
+| [**crossborder-ops-data-hub**](https://github.com/agentiker/crossborder-ops-data-hub) · `Python` | 跨境电商平台连接器 · Cross-border e-commerce platform connector |
+| [**freight-landing**](https://github.com/agentiker/freight-landing) · `TypeScript` | 国际货代公司官网 · International freight-forwarder landing site |
 
-<a href="https://github.com/agentiker/damou1758">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=agentiker&repo=damou1758&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=06B6D4" alt="damou1758"/>
-</a>
-<a href="https://github.com/agentiker/crossborder-ops-data-hub">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=agentiker&repo=crossborder-ops-data-hub&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=06B6D4" alt="crossborder-ops-data-hub"/>
-</a>
-
-<a href="https://github.com/agentiker/freight-landing">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=agentiker&repo=freight-landing&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=06B6D4" alt="freight-landing"/>
-</a>
-
-</div>
-
-> 💡 我们也在积极研究与共建开源 Agent 生态：`agentscope2` · `langfuse` · `coze-studio` · `qm` · `x-mcp` · `cc-connect`
+> 💡 我们也在积极研究与共建开源 Agent 生态：
+> [`agentscope2`](https://github.com/agentiker/agentscope2) · [`langfuse`](https://github.com/agentiker/langfuse) · [`coze-studio`](https://github.com/agentiker/coze-studio) · [`qm`](https://github.com/agentiker/qm) · [`x-mcp`](https://github.com/agentiker/x-mcp) · [`cc-connect`](https://github.com/agentiker/cc-connect)
 > Actively exploring & contributing to the open-source agent ecosystem.
 
 ---
